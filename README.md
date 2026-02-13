@@ -2,6 +2,10 @@
 
 A React-based shopping cart application demonstrating advanced React Hooks including `useState`, `useEffect`, `useRef`, `useMemo`, and custom hooks.
 
+## 🚀 Live Demo
+
+**[View Live App](https://shopping-cart-two-dusky.vercel.app)**
+
 ## Features
 
 - 🛒 Add/remove products from cart
