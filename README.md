@@ -13,10 +13,7 @@ A React-based shopping cart application demonstrating advanced React Hooks inclu
 
 ## Demo
 
-<video width="100%" controls>
-  <source src="./shoppin cart.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+📹 **[View Demo Video](./shoppin%20cart.mp4)**
 
 ## Tech Stack
 
