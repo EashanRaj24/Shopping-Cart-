@@ -11,6 +11,13 @@ A React-based shopping cart application demonstrating advanced React Hooks inclu
 - ⚡ Optimized performance with useMemo
 - 📝 Real-time notifications
 
+## Demo
+
+<video width="100%" controls>
+  <source src="./shoppin cart.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Tech Stack
 
 - React with Hooks
